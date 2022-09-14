@@ -5,7 +5,6 @@ import React from 'react';
 class App extends React.Component {
   state = {
     show: false,
-    time: 0
   };
   render () {
     return (
